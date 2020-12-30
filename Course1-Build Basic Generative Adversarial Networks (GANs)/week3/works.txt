@@ -1,0 +1,14 @@
+Interested in the papers behind the Wasserstein GAN with Gradient Penalty (WGAN-GP) you just implemented? Check them out! The first paper is the original WGAN paper and the second proposes GP (as well as weight clipping) to WGAN in order to enforce 1-Lipschitz continuity and improve stability.
+
+Wasserstein GAN (Arjovsky, Chintala, and Bottou, 2017): https://arxiv.org/abs/1701.07875
+
+Improved Training of Wasserstein GANs (Gulrajani et al., 2017): https://arxiv.org/abs/1704.00028
+
+
+All of the resources cited in Course 1 Week 3, in one place.  You are encouraged to explore these papers/sites if they interest you—for this week, both papers have been included as an optional reading! They are listed in the order they appear in the lessons.
+
+From the notebook:
+
+Wasserstein GAN (Arjovsky, Chintala, and Bottou, 2017): https://arxiv.org/abs/1701.07875
+Improved Training of Wasserstein GANs (Gulrajani et al., 2017): https://arxiv.org/abs/1704.00028
+MNIST Database: http://yann.lecun.com/exdb/mnist/
